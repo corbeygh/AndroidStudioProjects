@@ -1,0 +1,12 @@
+This is a collection of all the android applications I've coded using the EntityControlSystem (ECS) software architecture.
+I have been using the Ashley Library, found here: https://github.com/libgdx/ashley
+
+If you don't know what ECS, read this article for a basic understanding: 
+https://www.gamedev.net/resources/_/technical/game-programming/understanding-component-entity-systems-r3013
+
+I feel that in the distant future this style of programming (ECS) will replace the traditional hierarchical structure as;
+ECS based design is easy to adapt when your requirements change, meaning 2 things:
+1.) You don't have to correctly plan the WHOLE program inadvance.
+2.) You don't have to waste large amounts of time refractoring in order to adapt for new changes.
+
+This means faster progress when developing a game or a large application.
